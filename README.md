@@ -1,4 +1,4 @@
-<h1>To use a cloned Strapi project on your computer, you will need to follow these steps:</h1>
+<h1>To use a Strapi project, you will need to follow these steps:</h1>
 <br>
 <p>
 1. Make sure you have Node.js and npm installed on your computer.<br><br>
